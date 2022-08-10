@@ -71,4 +71,4 @@ export default function Model({ ...props }) {
   )
 }
 
-useGLTF.preload('/heart.glb')
+useGLTF.preload(heartModel)
